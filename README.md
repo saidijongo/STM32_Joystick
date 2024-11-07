@@ -9,3 +9,7 @@ https://www.usb.org/sites/default/files/hut1_5.pdf
 
 Simulation tool
 https://github.com/FreeJoy-Team/FreeJoyConfiguratorQt
+
+eBIKE
+https://github.com/GyrocopterLLC/ebike-g4/
+https://github.com/GyrocopterLLC/flatmcu[pcb]
