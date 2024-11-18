@@ -13,3 +13,6 @@ https://github.com/FreeJoy-Team/FreeJoyConfiguratorQt
 eBIKE
 https://github.com/GyrocopterLLC/ebike-g4/
 https://github.com/GyrocopterLLC/flatmcu[pcb]
+
+12 poles cosine shape
+https://github.com/bingsen-wang/Electric-Machines/blob/main/RotatingWaves3Phase12Pole_Polar.ipynb
