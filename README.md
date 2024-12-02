@@ -21,3 +21,6 @@ https://github.com/bingsen-wang/Electric-Machines/blob/main/RotatingWaves3Phase1
 https://github.com/OpenSourceEBike/EBike_EScooter_modular_DIY/tree/main
 https://opensourceebike.github.io/
 https://endless-sphere.com/sphere/threads/motor-controller-with-customizable-electronics-easy-diy-and-repair-opensource.114537/
+
+Cleaning rbt
+https://github.com/peterWon/CleaningRobot
